@@ -1,7 +1,7 @@
 # LoadCellShield
 Dual INA125 Instrumentation Amplifier Shield
 
-This is a 2-channel Instrumentation Amplifier sheild based on the Burr-Brown INA125: http://www.ti.com/product/INA125
+This is a 2-channel Instrumentation Amplifier shield based on the Burr-Brown INA125: http://www.ti.com/product/INA125
 
 The purpose of creating it was to monitor 2 load cells at higher speed than possible with the usual sensors, however it can be used to monitor any bridge-based sensor.
 
