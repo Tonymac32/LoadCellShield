@@ -21,11 +21,12 @@ Test Points `1..4` and `5..8` are the Vref selection for the two channels.
 
 ![Image](https://github.com/Tonymac32/LoadCellShield/raw/master/images/vref.png "Vref")
 
-Digital I/O 2 and 4 control Channel 0 and Channel 1 amplifier enable, allowing power-down modes
-
 TP `9..10` and `11..12` allow for either testing the value of RV1 and RV2 gain potentiometers, or for adding a resistor to set a fixed gain, leaving RV1 and RV2 either unpopulated or swapped for trimming.
 
 ![Image](https://github.com/Tonymac32/LoadCellShield/raw/master/images/gain.png "gain")
+
+
+Digital I/O 2 and 4 control Channel 0 and Channel 1 amplifier enable, allowing power-down modes
 
 Analog output is presented to Arduino A0 and A1.
 
@@ -42,7 +43,7 @@ Operating requirements:
     * Values vary per board, be certain to check.
     * Reference product page linked above for output characteristics
     
-## Tested Configurations (Gain set according to datasheet to be less than max input for baords)
+## Tested Configurations (Gain set according to datasheet to be less than max input for boards)
 
 Arduino Uno R3:
 * 12V Vin
