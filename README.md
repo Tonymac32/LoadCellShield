@@ -5,6 +5,11 @@ This is a 2-channel Instrumentation Amplifier shield based on the Burr-Brown INA
 
 The purpose of creating it was to monitor 2 load cells at higher speed than possible with the usual sensors, however it can be used to monitor any bridge-based sensor.
 
+Help keep me free to do this sort of thing:
+[Donate Here][paypal]
+
+[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6JRRCSB28828Y&source=url
+
 ## Profile
 
 ![Image](https://github.com/Tonymac32/LoadCellShield/raw/master/images/board-top.png "board")
